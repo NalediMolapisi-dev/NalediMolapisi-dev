@@ -63,7 +63,7 @@
 <p>
 <b>### Developer skill set(extra) </b>
 <h1>Frameworks </h1>
--ASP.NET Core. Razor Pages, Wpf,.NET
+-ASP.NET Core. Razor Pages, Wpf,.NET,MVC
   
   <h1><b>Cloud and backend Services </b></h1>
   -Firebase , WampServer(localhost)
