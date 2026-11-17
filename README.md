@@ -69,14 +69,6 @@
   -Firebase , WampServer(localhost)
 </p>
 
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NalediMolapisi-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NalediMolapisi-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ### 🎯 Current Goals
 
 - Build practical software applications.
